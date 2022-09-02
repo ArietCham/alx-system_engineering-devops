@@ -1,1 +1,1 @@
-script that prints the type of the file named iamfile
+create a symbolic link to /bin/ls, named _ls_
