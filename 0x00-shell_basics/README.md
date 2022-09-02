@@ -1,1 +1,1 @@
-Script that lists files in the current directory and the /boot directory, in long format
+script that prints the type of the file named iamfile
