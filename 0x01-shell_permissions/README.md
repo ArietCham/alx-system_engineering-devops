@@ -1,1 +1,1 @@
-script that will play the StatWars IV episode in the terminal
+script that will play the StarWars IV episode in the terminal
