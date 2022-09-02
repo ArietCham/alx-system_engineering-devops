@@ -1,1 +1,1 @@
-script that sets the permission to the file hello as owner, group(no permission at all) and other users(all the permissions)
+script that sets the mode of the file hello to the file hello will be in the working directory; you are not allowed to use commas for this script
