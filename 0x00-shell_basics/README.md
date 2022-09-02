@@ -1,1 +1,1 @@
-Script that changes the working directory to the previous one
+Script that lists files in the current directory and the /boot directory, in long format
